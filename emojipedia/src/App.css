@@ -1,0 +1,8 @@
+.container{
+    padding: 4% 2%;
+}
+@media only screen and (max-width: 600px) {
+    .container{
+      padding: 4% 10%;
+    }
+}

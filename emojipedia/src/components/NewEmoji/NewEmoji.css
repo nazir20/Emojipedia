@@ -1,0 +1,23 @@
+.new-emoji{
+    background-color: rgba(255, 255, 255, 0.286);
+    backdrop-filter: blur(5px);
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+    margin-bottom: 6%;
+}
+.new-emoji input{
+    background-color: rgba(255, 255, 255, 0.067);
+    backdrop-filter: blur(5px);
+    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+}
+.new-emoji textarea{
+    margin: 1.5% 0;
+    padding: 10px 20px;
+    background-color: rgba(255, 255, 255, 0.067);
+    backdrop-filter: blur(5px);
+    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+}
+.new-emoji button{
+    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+    margin-left: 5px;
+}
